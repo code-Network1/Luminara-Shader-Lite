@@ -1,0 +1,29 @@
+LUMINARA SHADER LITE
+====================
+
+A performance-optimized version of Complementary Shaders designed for mid-range gaming systems.
+
+FEATURES:
+- Enhanced lighting and atmospheric effects
+- Optimized for GTX 1060/RX 580+ graphics cards
+- Reduced performance impact while maintaining visual quality
+- PBR materials and realistic water rendering
+- Dynamic weather and volumetric lighting effects
+
+BASED ON: Complementary Shaders by EminGT
+OPTIMIZATION: Mid-range device compatibility
+VERSION: 1.0
+
+INSTALLATION:
+1. Install OptiFine or Iris Shaders
+2. Place in .minecraft/shaderpacks folder  
+3. Enable in Video Settings > Shaders
+
+CREDITS:
+Original Shader: Complementary Shaders (https://www.complementary.dev/)
+Original Creator: EminGT
+Modified Version: Luminara Shader Lite Team
+
+Special thanks to EminGT for creating the incredible foundation that made this optimized version possible.
+
+For the original high-performance version, please visit the official Complementary Shaders page and support the original creator.
